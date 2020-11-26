@@ -8,6 +8,6 @@ Assigment week 3
     4. Membuat Aplikasi Get data from API Data Covid 19 di Indonesia
     
 source api:
-https://batikita.docs.apiary.io/#reference/0/all-batik-collections/retrieve-all-batik 
 
-https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
+    • https://batikita.docs.apiary.io/#reference/0/all-batik-collections/retrieve-all-batik 
+    • https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
