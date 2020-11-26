@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Indonesia</string>
+    <string name="judul_covid">Jumlah Terpapar Covid-19 di Indonesia</string>
+    <string name="app_version">Indonesia V-1.0</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="todo">TODO</string>
+    <string name="update">Update</string>
+    <string name="tanggal">tanggal</string>
+    <string name="_0">0</string>
+    <string name="positif">Positif</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="jumlah_kasus">Jumlah kasus :</string>
+    <string name="asal">asal</string>
+    <string name="harga_tertinggi">Harga tertinggi</string>
+    <string name="harga_terendah">Harga terendah</string>
+    <string name="makna_batik">Makna Batik</string>
+    <string name="makna">makna</string>
+    <string name="alamat">alamat</string>
+    <string name="tahun_berdiri">Tahun Berdiri</string>
+    <string name="pengelola">Pengelola</string>
+    <string name="museum">Museum</string>
+    <string name="batik">Batik</string>
+    <string name="daerah">Daerah</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="dirawat">Dirawat</string>
+    <string name="jumlah">jumlah</string>
+    <string name="nama_batik">Nama Batik</string>
+    <string name="asal_batik">Asal Batik</string>
+    <string name="kota">Kota</string>
+    <string name="nama">Nama</string>
+    <string name="cari">Cari</string>
+    <string name="assigment_week_3">Assigment Week 3</string>
+</resources>
