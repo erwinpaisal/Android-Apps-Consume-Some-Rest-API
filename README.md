@@ -1,11 +1,9 @@
-# Mentoring-Udacoding-Week-3
+# Create Android Apps Consume Rest API :
 
-Assigment week 3
-
-    1. Membuat Aplikasi Get data from API Batik Kita 
-    2. Membuat Aplikasi Get data from API Museum and Search Museum di Indonesia
-    3. Membuat Aplikasi Get data from API Daerah di Indonesia 
-    4. Membuat Aplikasi Get data from API Data Covid 19 di Indonesia
+    1. Get data from API Batik Kita 
+    2. Get data from API Museum and Search Museum di Indonesia
+    3. Get data from API Daerah di Indonesia 
+    4. Get data from API Data Covid 19 di Indonesia
     
 source api:
 
