@@ -9,3 +9,9 @@ source api:
 
     • https://batikita.docs.apiary.io/#reference/0/all-batik-collections/retrieve-all-batik 
     • https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
+    
+    
+    
+    TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : 
+
+https://biolinky.co/erwinpaisal
