@@ -12,6 +12,4 @@ source api:
     
     
     
-    TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : 
-
-https://biolinky.co/erwinpaisal
+    TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : https://biolinky.co/erwinpaisal
